@@ -1,30 +1,18 @@
-h1{
-    border: 0cap;
-    color: aqua;
+.container{
+    width:60%;
+    padding:20px;
+    margin: auto;
+}
+.item-1,.item-2,.item-3,.item-4{
+    width: 200px;
+    display:inline-block;
 }
 img{
-    width: 200px;
-    border-radius: 50%;
-}
-table{
-    background-color: brown;
-    height: 1%;
     width:100%;
-
 }
-h2 {
-    background-color: #f0f8ff; /* AliceBlue or any preferred color */
-    padding: 6px 10px;
-    border-radius: 5px;
-    font-family: Arial, sans-serif;
+h3{
+    padding:5px;
 }
-
-
 p{
-    color:yellowgreen;
-    background-color:
-}
-div{
-    background-color: turquoise;
-
+    padding:5px;
 }
